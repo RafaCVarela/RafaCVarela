@@ -1,34 +1,31 @@
-# Rafael Costa Varela - RafaCVarela Profile
+# Olá! 👋 Bem-vindo(a) ao meu perfil no GitHub.
 
-## Introduction
+Sou Rafael Costa Varela, estudante de Engenharia da Computação em Salvador, Bahia. 
+Atualmente, atuo como estagiário Backend PHP/Laravel na SEMIT (Secretaria Municipal de Inovação e Tecnologia), onde sou responsável por desenvolver e manter APIs RESTful.
 
-### Hi there and welcome! 👋
+Este espaço é o meu portfólio digital, onde compartilho meus projetos, estudos e a jornada de aprimoramento contínuo em programação.
 
-🏢 I am a Computer Engineer undergraduate student at "Faculdade Ruy Barbosa - Wyden", here in Salvador, Bahia, Brasil.
-I'm currectly working in a interniship from __SEMAN - Secretária Municipal de Manutenção da Cidade de Salvador -__
-at __SEMIT - Secretária Municipal de Inovação e Tecnológia -__ as backend __Php/Laravel__ developer. 
-📑 There i develop, mantain, update and write documentation about __API's RESTful__.
+## 🚀 Habilidades e Interesses
+Backend: PHP/Laravel
 
-## Learning and Doing/ Doing and Learning
+Sistemas Embarcados: C/C++ (Arduino e ESP32)
 
-📝 I'm trying to hone my developer skills, trying to practises through __LeetCode__,
-__Exercism__, __Urionline/Beecrownd__, __Codewars__ etc. 
-💡 Also, I'm trying to build projects, my owns and proposed ones, in exemple, my own Portifolio Website.
-🖥 Currently learning more about __Php/Laravel__, but too __Excel__, __C__ (in special for embbed systems), 
-__C++__ (for __Arduino__ and __ESP32__), __Python__ (especially for __Machine Learning__ and __Data Science__),
-more about __Industrial Automation__ (CLP's, Scada, HMI etc), __Robotics__ and I think here it's good enough.
+Dados e Automação: Python (Machine Learning e Data Science), Automação Industrial e Robótica
 
-## Looking to Contribute, looking for oportunities
+Resolução de Problemas: Praticando em plataformas como LeetCode, Codewars e Beecrowd
 
-🕒 As you my have seen, i'm looking for show my skills and, why not, contribute with. Wait and lets see it!
-
-## Make contact with me
-
+## 📫 Conecte-se comigo
 Email: rafael.varela2220@gmail.com
-Linkedin: /in/rafacvarela/
+
+LinkedIn: linkedin.com/in/rafacvarela
+
 X: x.com/_varelaR
 
-# Cya! 👋👋
+### Fique à vontade para explorar os repositórios!
+
+
+
+
 <!--
 **RafaCVarela/RafaCVarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
