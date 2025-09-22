@@ -10,7 +10,7 @@ Backend: PHP/Laravel
 
 Sistemas Embarcados: C/C++ (Arduino e ESP32)
 
-Dados e Automação: Python (Machine Learning e Data Science), Automação Industrial e Robótica
+Dados e Automação: Python (Machine Learning e Data Science), Automação Industrial, Robótica e IoT.
 
 Resolução de Problemas: Praticando em plataformas como LeetCode, Codewars e Beecrowd
 
