@@ -21,6 +21,10 @@ LinkedIn: linkedin.com/in/rafacvarela
 
 X: x.com/_varelaR
 
+
+## Certificados e conquistas
+[Introduction to GitHub - GitHub Skills](https://github.com/RafaCVarela/skills-introduction-to-github)
+
 ### Fique à vontade para explorar os repositórios!
 
 
